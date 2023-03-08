@@ -10,7 +10,7 @@
 
  Cloner le repository
 
- Les librairie:
+ Les librairies:
  - npm i react-router react-router-dom
  - npm i nanostores @nanostores/react
  - npm i styled-components
