@@ -58,9 +58,7 @@ export default function Menu() {
         <Link to="/todoList" onClick={toggleMenu}>
           TodoList
         </Link>
-      </MenuItem>
-      
-      
+      </MenuItem> 
     </MenuContainer>
   )
 }

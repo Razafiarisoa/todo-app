@@ -40,13 +40,14 @@ export const AppGlobalStyle = createGlobalStyle`
   }
   h2{
     font-family: Lobster, cursive;
-    font-size: 1.9rem;
+    font-size: 2rem;
   }
    li{
     list-style-type: none;
    }
    a{
-    text-decoration: none;
+    text-decoration: none;    
+    padding: 2rem;
    }
    
    button {
@@ -57,6 +58,9 @@ export const AppGlobalStyle = createGlobalStyle`
     color: ${Theme.colors.white};
     font-size: 1.3rem;
    }
+   button a {
+    color: ${Theme.colors.white};
+  }
 
    input[type="email"], input[type="password"] {
     padding: 15px;

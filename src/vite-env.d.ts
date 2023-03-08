@@ -1,1 +1,7 @@
-/// <reference types="vite/client" />
+//  <reference types="vite/client" />
+VITE_FIREBASE_API_KEY=AIzaSyAoA5fK6fQXrzKNWpS_g7weL72-v-d5vzw
+VITE_FIREBASE_AUTHDOMAIN=todo-app-cf6ff.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=todo-app-cf6ff
+VITE_FIREBASE_STORAGEBUCKET=todo-app-cf6ff.appspot.com
+VITE_FIREBASE_MESSAGINGSENDER_ID=635902052761
+VITE_FIREBASE_APP_ID=1:635902052761:web:e34d4bc2db62082076eb08
