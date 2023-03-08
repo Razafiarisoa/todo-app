@@ -10,12 +10,12 @@
 
  Cloner le repository
 
- Les libreries:
- npm i react-router react-router-dom
- npm i nanostores @nanostores/react
- npm i styled-components
- npm i -D @types/styled-components
- npm install firebase
+ Les librairie:
+ - npm i react-router react-router-dom
+ - npm i nanostores @nanostores/react
+ - npm i styled-components
+ - npm i -D @types/styled-components
+ - npm install firebase
 
 Organiser les codes dans le dossier "src":
 main.tsx 
